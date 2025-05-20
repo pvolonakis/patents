@@ -1,4 +1,4 @@
-Project Summary: Information Retrieval with Pyserini (BM25) and pytrec_eval
+Project Summary: Information Retrieval with Pyserini (BM25) and pytrec_eval.
 This project focuses on building an information retrieval system using the WPI 60K dataset, the Pyserini toolkit for indexing and retrieval, and pytrec_eval for evaluating search performance.
 
 Indexing Phase
